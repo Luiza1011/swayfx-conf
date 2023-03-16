@@ -6,7 +6,7 @@ gaps inner 3
 gaps outer 3
 
 # Hide titlebar on windows:
-default_border pixel 3
+default_border pixel 2
 
 # Default Font
 font pango: Ubuntu 12

@@ -1,6 +1,2 @@
 include $HOME/.config/sway/config.d/keybinds/keywords
 
-Window blur:
-- blur on
-- blur_passes 3
-- blur_radius 5
