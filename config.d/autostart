@@ -4,7 +4,7 @@ include $HOME/.config/sway/config.d/keybinds/keywords
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # Desktop notifications
-exec mako
+exec swaync
 
 # Network Applet
 exec nm-applet --indicator
