@@ -34,8 +34,8 @@ if [[ "$cnflayout" == 'NO' ]]; then
 	yes=' Yes'
 	no=' No'
 else
-	yes=''
-	no=''
+	yes=''
+	no=''
 fi
 
 # Rofi CMD
